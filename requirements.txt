@@ -1,4 +1,4 @@
-pyrogram
+https://github.com/subinps/pyrogram/tree/session
 TgCrypto
 py-tgcalls==0.5.2
 python-dotenv
